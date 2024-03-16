@@ -12,7 +12,7 @@ To install and run this API locally, follow these steps:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone [https://github.com/tushii05/coral-commerce.git]
+git clone https://github.com/tushii05/coral-commerce.git
 ```
 
 2. Navigate to the project directory:
@@ -66,7 +66,7 @@ Ensure that you provide a JSON payload with a description and price for the prod
 Clone this repository using the following URL:
 
 ```bash
-git clone [https://github.com/tushii05/coral-commerce.git]
+git clone https://github.com/tushii05/coral-commerce.git
 ```
 
 ## License
