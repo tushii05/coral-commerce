@@ -15,8 +15,6 @@ To install and run this API locally, follow these steps:
 git clone [<repository_url>](https://github.com/tushii05/coral-commerce.git)
 ```
 
-Replace `<repository_url>` with the URL of your Git repository.
-
 2. Navigate to the project directory:
 
 ```bash
@@ -70,8 +68,6 @@ Clone this repository using the following URL:
 ```bash
 git clone [<repository_url>](https://github.com/tushii05/coral-commerce.git)
 ```
-
-Replace `<repository_url>` with the URL of your Git repository.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
