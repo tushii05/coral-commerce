@@ -34,7 +34,7 @@ To use this API, make sure you have Node.js installed on your machine. Follow th
 1. Start the server by running:
 
 ```bash
-node server.js
+node index.js
 ```
 
 This will start the server on port 3000 by default. You can modify the port in the `server.js` file if needed.
