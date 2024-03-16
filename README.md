@@ -3,7 +3,7 @@ Certainly! Below is a README.md file content for your API along with clone URL a
 ```markdown
 # Express API for Payment Handling
 
-This API allows you to handle payments using the Express framework in Node.js. It facilitates processing payments through an external service and handling the response accordingly.
+This API allows you to handle payments using the Express framework in Node.js. It facilitates processing coral-commerce payments through an external service and handling the response accordingly.
 
 ## Installation
 
@@ -72,3 +72,5 @@ git clone [https://github.com/tushii05/coral-commerce.git]
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
+
+#coral-commerce #coralcommerce
