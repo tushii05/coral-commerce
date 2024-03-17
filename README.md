@@ -1,5 +1,3 @@
-Certainly! Below is a README.md file content for your API along with clone URL and installation method:
-
 ```markdown
 # Express API for Payment Handling
 
